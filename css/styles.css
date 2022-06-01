@@ -1,0 +1,31 @@
+p.intro {
+  color: rgb(193, 127, 127);
+  font-style: italic;
+  text-align: left;
+}
+h3.intro {
+  color: darkgrey;
+  font-style: italic;
+}
+img.intro {
+  float: left;
+}
+h1.intro {
+ color: red;
+ text-align: left;
+}
+h2.intro {
+ color: lightcoral;
+ font-style: italic;
+ text-align: left;
+}
+body {
+  text-align: center;
+  color: rgb(77, 41, 41);
+}
+h1 {
+  color: blue;
+}
+h2 {
+  color: rgb(151, 189, 202);
+}
