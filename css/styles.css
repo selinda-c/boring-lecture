@@ -36,7 +36,12 @@ body {
   padding: 20px;
 }
 .column {
-  border: 5px solid rgba(174, 115, 7, 0.335);
-  width: 30%;
+  border: 5px solid rgb(171, 171, 248);
+  width: 50%;
+  float: left;
+  border-radius: 15px;
+  padding: 5px;
+  margin: 5%;
+  background-color: lightgreen;
   float: left;
 }
