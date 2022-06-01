@@ -2,10 +2,12 @@ p.intro {
   color: rgb(193, 127, 127);
   font-style: italic;
   text-align: left;
+  font-family: sans-serif;
 }
 h3.intro {
   color: darkgrey;
   font-style: italic;
+  font-family: sans-serif;
 }
 img.intro {
   float: left;
@@ -13,15 +15,18 @@ img.intro {
 h1.intro {
  color: red;
  text-align: left;
+ font-family: sans-serif;
 }
 h2.intro {
  color: lightcoral;
  font-style: italic;
  text-align: left;
+ font-family: sans-serif;
 }
 body {
   text-align: center;
   color: rgb(77, 41, 41);
+  background-color: lavender;
 }
 h1 {
   color: blue;
