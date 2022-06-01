@@ -1,36 +1,21 @@
-p.intro {
-  color: rgb(193, 127, 127);
-  font-style: italic;
-  text-align: left;
-  font-family: sans-serif;
+h2 {
+  color: rgb(151, 189, 202);
 }
-h3.intro {
-  color: darkgrey;
-  font-style: italic;
-  font-family: sans-serif;
+h1 {
+  color: blue;
 }
-img.intro {
-  float: left;
-}
-h1.intro {
- color: red;
- text-align: left;
- font-family: sans-serif;
-}
-h2.intro {
+.intro {
  color: lightcoral;
  font-style: italic;
  text-align: left;
  font-family: sans-serif;
+ float: left;
+}
+img {
+  float: left;
 }
 body {
   text-align: center;
   color: rgb(77, 41, 41);
   background-color: lavender;
-}
-h1 {
-  color: blue;
-}
-h2 {
-  color: rgb(151, 189, 202);
 }
