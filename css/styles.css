@@ -13,9 +13,20 @@ h1 {
 }
 img {
   float: left;
+  width: 300px;
 }
 body {
   text-align: center;
   color: rgb(77, 41, 41);
   background-color: lavender;
+}
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+  text-align: left;
+}
+.column {
+  width: 300px;
+  float: left;
 }
