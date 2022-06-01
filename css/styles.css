@@ -5,15 +5,20 @@ h1 {
   color: blue;
 }
 .intro {
- color: lightcoral;
+ border: 3px dashed lavenderblush;
+ padding: 10px;
+ color: lavender;
  font-style: italic;
- text-align: left;
+ text-align: center;
  font-family: sans-serif;
  float: left;
+ background-color: rgb(215, 174, 215);
 }
 img {
   float: left;
   width: 300px;
+  border: 5px solid rgb(171, 171, 248);
+  border-radius: 10px;
 }
 body {
   text-align: center;
@@ -22,11 +27,16 @@ body {
 }
 .sidebar {
   width: 30%;
+  list-style-position: inside;
   float: right;
-  background-color: yellow;
-  text-align: left;
+  background-color: rgba(255, 255, 0, 0.335);
+  text-align: center;
+  border: 2px solid salmon;
+  border-radius: 50px;
+  padding: 20px;
 }
 .column {
-  width: 300px;
+  border: 5px solid rgba(174, 115, 7, 0.335);
+  width: 30%;
   float: left;
 }
