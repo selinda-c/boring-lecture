@@ -5,14 +5,14 @@ h1 {
   color: blue;
 }
 .intro {
- border: 3px dashed lavenderblush;
- padding: 10px;
- color: lavender;
- font-style: italic;
- text-align: center;
- font-family: sans-serif;
- float: left;
- background-color: rgb(215, 174, 215);
+  border: 3px dashed lavenderblush;
+  padding: 10px;
+  color: lavender;
+  font-style: italic;
+  text-align: center;
+  font-family: sans-serif;
+  float: left;
+  background-color: rgb(215, 174, 215);
 }
 img {
   float: left;
@@ -37,7 +37,6 @@ body {
   box-sizing: border-box;
   margin: 5%;
 }
-
 .column {
   border: 5px solid rgb(171, 171, 248);
   width: 50%;
